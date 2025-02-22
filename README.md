@@ -31,9 +31,9 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimstfa2911&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimstfa2911&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
