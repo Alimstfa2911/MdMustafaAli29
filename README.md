@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1589561253898-768105ca91a8?auto=format&fit=crop&w=500&q=60">
 
 - 🔭 My Ongoing Project: [AgraArtifacts](https://agraartifacts.com)
-- 🌱 Currently Learning: **TypeScript & System Design**
+- 🌱 Currently Learning: Node.js, React.js, System Design
 - 👨‍💻 My Portfolio: [mustafa.netlify.app](https://mustafa.netlify.app)
 - 📫 Contact: **mustafa.dev@gmail.com**
 
