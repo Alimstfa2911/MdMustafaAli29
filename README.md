@@ -9,8 +9,8 @@
 
 - 🔭 My Ongoing Project: [AgraArtifacts](https://github.com/Alimstfa2911/AgraArtifacts)
 - 🌱 Currently Learning: MERN and Data Structure and Algorithm
-- 👨‍💻 My Portfolio: [mustafa.netlify.app](https://mustafa.netlify.app)
-- 📫 Contact: **mustafa.dev@gmail.com**
+- 👨‍💻 My Portfolio: [mustafa.netlify.app](https://github.com/Alimstfa2911/MdMustafaAli29/blob/main/README.md))
+- 📫 Contact: **mca23.mustafaali@bvicam.in**
 
 ---
 
