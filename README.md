@@ -11,9 +11,9 @@
 - [AgraArtifacts](https://github.com/Alimstfa2911/AgraArtifacts)
 - [AskConnect](https://github.com/Alimstfa2911/AskConnect)
 - 🌱 Currently Learning: MERN and Data Structure and Algorithm
-- 👨‍💻 Github: [Md_Mustafa_ali](https://github.com/Alimstfa2911)
-- 👨‍💻 Leetcode: [Md_Mustafa_ali](https://leetcode.com/u/MD_MUSTAFA_ALI/)
-- 📫 Contact: **mca23.mustafaali@bvicam.in**
+- 👨‍💻 Github: [GITHUB/MD_MUSTAFA_ALI](https://github.com/Alimstfa2911)
+- 👨‍💻 Leetcode: [LEETCODE/MD_MUSTAFA_ALI](https://leetcode.com/u/MD_MUSTAFA_ALI/)
+- 📫 Contact: **7209648596**
 
 ---
 
