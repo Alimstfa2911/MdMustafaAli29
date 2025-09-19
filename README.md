@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Mustafa Ali</h1>
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+<h1 align="center">Hi , I'm Md. Mustafa Ali</h1>
+<h3 align="center">A passionate MERN Stack Developer and T-shaped engineer, with deep expertise in MongoDB, Express.js, React, and Node.js.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-mustafa-ali-60456b221/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/></a>
@@ -16,7 +16,7 @@
 - 🌱 Currently Learning: MERN and Data Structure and Algorithm
 - 👨‍💻 Github: [GITHUB/MD_MUSTAFA_ALI](https://github.com/Alimstfa2911)
 - 👨‍💻 Leetcode: [LEETCODE/MD_MUSTAFA_ALI](https://leetcode.com/u/MD_MUSTAFA_ALI/)
-- 📫 Contact: **7209648596**
+- 📫 Contact: **720 96 48 596**
 
 ---
 
