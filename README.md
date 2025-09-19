@@ -6,16 +6,16 @@
 </p>
 
 
-- 🔭 My Ongoing Project:
+- My Ongoing Project:
   
 - [AskConnect](https://github.com/Alimstfa2911/AskConnect)
   
 - [AgraArtifacts](https://github.com/Alimstfa2911/AgraArtifacts)
 
-- 🌱 Currently Learning: MERN and Data Structure and Algorithm
-- 👨‍💻 Github: [GITHUB/MD_MUSTAFA_ALI](https://github.com/Alimstfa2911)
-- 👨‍💻 Leetcode: [LEETCODE/MD_MUSTAFA_ALI](https://leetcode.com/u/MD_MUSTAFA_ALI/)
-- 📫 Contact: **+91 720 96 48 596**
+- Currently Learning: MERN and Data Structure and Algorithm
+- Github: [GITHUB/MD_MUSTAFA_ALI](https://github.com/Alimstfa2911)
+- Leetcode: [LEETCODE/MD_MUSTAFA_ALI](https://leetcode.com/u/MD_MUSTAFA_ALI/)
+- Contact: **+91 720 96 48 596**
 
 ---
 
