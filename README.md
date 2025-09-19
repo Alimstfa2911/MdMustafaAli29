@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/md-mustafa-ali-60456b221/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1589561253898-768105ca91a8?auto=format&fit=crop&w=500&q=60">
 
 - 🔭 My Ongoing Project:
   
